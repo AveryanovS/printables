@@ -1,4 +1,5 @@
 .DS_Store
 *.FCBak
 *.stl
-
+*.gcode
+archive
