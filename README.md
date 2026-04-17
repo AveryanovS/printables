@@ -2,4 +2,4 @@
 
 Модели для 3D-печати
 
-Спроектировано, в [FreeCAD](https://www.freecad.org/)
+Спроектировано во [FreeCAD](https://www.freecad.org/)
